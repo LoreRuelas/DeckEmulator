@@ -1,0 +1,14 @@
+               DECK EMULATOR
+   Use las siguientes letras para jugar
+                    -
+   'p' - (pull)   para "tomar" la carta que este encima de la pila de cartas
+   'b' - (bottom)   para poner la carga "en mano" hasta abajo de la pila de cartas
+   'u' - (up)     para regresar la carga "en mano" hasta arriba de la pila de cartas
+   'd' - (discard) para remover la carta "en mano"
+   's' - (save)   para salvar estado actual del juego
+   'l' - (load)   para cargar el estado de las cartas del juego previo
+   'e' - (exit)   para salir
+                    -
+   Nota
+   Solo se podra usar los comandos 'u', 'r' y 'd' cuando la carat ya este "en mano"
+   (previamente a usar esos comando debes usar 'p')

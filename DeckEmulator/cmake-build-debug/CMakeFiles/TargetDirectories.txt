@@ -1,0 +1,3 @@
+C:/Users/loren/CLionProjects/DeckEmulator/cmake-build-debug/CMakeFiles/DeckV2.dir
+C:/Users/loren/CLionProjects/DeckEmulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/loren/CLionProjects/DeckEmulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
